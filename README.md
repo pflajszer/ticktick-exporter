@@ -1,3 +1,7 @@
+# Overview
+
+TickTick Exporter enables you to safely backup your TickTick **Tasks** and **Habits** locally.
+
 # Quickstart
 
 1. save `.env.example` & `Makefile` files from this repo on your host machine, or clone this repo
